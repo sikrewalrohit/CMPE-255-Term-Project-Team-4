@@ -26,9 +26,9 @@
 # Instructions to Run this project
 1) Clone the repo using the following command in the command line "git clone https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4.git"
 2) Navigate inside the main folder.
-3) Run the "CMPE-255-Tearm-Project.ipynb" complete file in jupyter notebook.
+3) Run the "CMPE-255-Term-Project.ipynb" complete file in jupyter notebook.
 4) The dataset is also in the "main" folder under the name "HomeC.csv".
-5) Please make sure that the HomeC.csv file is in the same folder as the "CMPE-255-Tearm-Project.ipynb" file.
+5) Please make sure that the HomeC.csv file is in the same directory as the "CMPE-255-Term-Project.ipynb" file.
 
 # Project Report (CMPE 255 Term Project Report.pdf)
 https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/Project%20Report
