@@ -29,7 +29,7 @@
 3) Run the "CMPE-255-Tearm-Project.ipynb" file in jupyter notebook.
 4) The dataset is also in the "main" folder under the name "HomeC.csv"
 
-# Project Report
+# Project Report (CMPE 255 Term Project Report.pdf)
 https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/Project%20Report
 
 # Project Notebook (CMPE-255-Tearm-Project.ipynb)
