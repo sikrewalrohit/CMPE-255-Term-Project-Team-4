@@ -27,7 +27,14 @@
 https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/Project%20Report
 
 # Project Notebook (CMPE-255-Tearm-Project.ipynb)
-https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/blob/main/Project%20Report/CMPE%20255%20Term%20Project%20Report%20(1).pdf
+https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/main
 
 # Dataset (HomeC.csv)
 https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/main
+1) Navigate inside main folder
+2) Download "HomeC.csv" file.
+
+# Instructions to Run the project
+1) Clone the repo using the following command "git clone https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4.git"
+2) Navigate inside main folder
+3) Run the "CMPE-255-Tearm-Project.ipynb" file in jupyter notebook or google collab.
