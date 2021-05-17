@@ -33,7 +33,7 @@
 https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/Project%20Report
 
 # Project Notebook (CMPE-255-Tearm-Project.ipynb)
-https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/main
+https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/blob/main/Project%20Report/CMPE%20255%20Term%20Project%20Report.pdf
 
 # Dataset (HomeC.csv)
 https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/main
