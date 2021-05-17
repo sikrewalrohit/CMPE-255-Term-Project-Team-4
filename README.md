@@ -24,7 +24,7 @@
 16) warnings
 
 ## Instructions to Run this project
-1) Clone this repo using the following command in the command line -> "git clone https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4.git"
+1) Clone this repo using the following command -> "git clone https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4.git"
 2) Navigate inside the main folder.
 3) Run the "CMPE-255-Term-Project.ipynb" complete file in jupyter notebook.
 4) The dataset is also in the "main" folder under the name "HomeC.csv".
