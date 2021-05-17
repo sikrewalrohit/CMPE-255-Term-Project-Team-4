@@ -23,6 +23,12 @@
 15) IPython
 16) warnings
 
+# Instructions to Run this project
+1) Clone the repo using the following command "git clone https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4.git"
+2) Navigate inside the main folder
+3) Run the "CMPE-255-Tearm-Project.ipynb" file in jupyter notebook.
+4) The dataset is also in the "main" folder under the name "HomeC.csv"
+
 # Project Report
 https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/Project%20Report
 
@@ -31,9 +37,3 @@ https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/main
 
 # Dataset (HomeC.csv)
 https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/main
-
-# Instructions to Run the project
-1) Clone the repo using the following command "git clone https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4.git"
-2) Navigate inside main folder
-3) Run the "CMPE-255-Tearm-Project.ipynb" file in jupyter notebook.
-4) The dataset is also in "main" folder under the name "HomeC.csv"
