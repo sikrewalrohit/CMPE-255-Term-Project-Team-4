@@ -31,6 +31,8 @@ https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/main
 
 # Dataset (HomeC.csv)
 https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/main
+
+## How to download Dataset
 1) Navigate inside main folder
 2) Download "HomeC.csv" file.
 
