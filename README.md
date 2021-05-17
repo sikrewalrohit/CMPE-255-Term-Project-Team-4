@@ -24,36 +24,10 @@
 16) warnings
 
 # Project Report
+https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/Project%20Report
+
+# Project Notebook (CMPE-255-Tearm-Project.ipynb)
 
 
-# UI Wireframes
-https://github.com/gopinathsjsu/team-project-team-12/tree/main/extra_docs/Wireframes
-
-# Deployment Diagram
-https://github.com/gopinathsjsu/team-project-team-12/tree/main/extra_docs/Diagrams
-
-# XP Core Values Selected
-Our team has incorporated Communication and Feedback XP core value values throughout the project.
-1) Communication - We have maintained Communication through the daily scrum meeting, which we did three times a sprint.
-2) Feedback - Feedback was one of the most important values which we have incorporated throughout this project. We used to give each other feedback during all the daily scrum meetings and try to integrate in the application. 
-
-# Front End Set up
-1) Node.js should be installed on the machine
-2) Move inside the directory(bankingapp_fe) and run "npm install". It will install all dependencies.
-3) In order to start the react app, run "npm start" 
-
-# Backend Set Up
-1) Please make sure sure python is installed on the machine
-2) Install virtual Environment  -> "pip install virtualenv"
-3) Create a virtualenv -> "virtualenv venv"
-4) Activate venv
-
-    Windows: venv\Scripts\activate
-	
-    Mac/Liux : source venv\bin\activate
-
-5) Clone the repo "git clone https://github.com/gopinathsjsu/team-project-team-12"
-6) Navigate inside bankingapp folder -> "cd backend/bankingapp"
-7) Install requirements -> "pip install -r requirements.txt"
-8) Now run the django server -> "python manage.py runserver"
+# Dataset (HomeC.csv)
 
