@@ -1,11 +1,11 @@
 # CMPE-255 Term Project - Team 4 
 
-# Team Members Name
+## Team Members Name
 1) Rohit Sikrewal - 015220634
 2) Hanish Punamiya - 015271971
 3) Sahil Bhagchandani - 015264873
 
-# Requirnments - Make sure all these libraries are installed in your system
+## Requirnments - Make sure all these libraries are installed in your system
 1) numpy
 2) pandas
 3) matplotlib
@@ -23,21 +23,21 @@
 15) IPython
 16) warnings
 
-# Instructions to Run this project
+## Instructions to Run this project
 1) Clone this repo using the following command in the command line -> "git clone https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4.git"
 2) Navigate inside the main folder.
 3) Run the "CMPE-255-Term-Project.ipynb" complete file in jupyter notebook.
 4) The dataset is also in the "main" folder under the name "HomeC.csv".
 5) Please make sure that the "HomeC.csv" file is in the same directory as the "CMPE-255-Term-Project.ipynb" file.
 
-# Project Report (CMPE 255 Term Project Report.pdf)
+## Project Report (CMPE 255 Term Project Report.pdf)
 https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/blob/main/Project%20Report/CMPE%20255%20Term%20Project%20Report.pdf
 
-# Project Notebook (CMPE-255-Tearm-Project.ipynb)
+## Project Notebook (CMPE-255-Tearm-Project.ipynb)
 https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/main
 
-# Dataset (HomeC.csv)
+## Dataset (HomeC.csv)
 https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/main
 
-# Dataset (Kaggle link)
+## Dataset (Kaggle link)
 https://www.kaggle.com/taranvee/smart-home-dataset-with-weather-information
