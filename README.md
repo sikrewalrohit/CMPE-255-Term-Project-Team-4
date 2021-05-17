@@ -37,3 +37,6 @@ https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/main
 
 # Dataset (HomeC.csv)
 https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-4/tree/main/main
+
+# Dataset (kaggle link)
+https://www.kaggle.com/taranvee/smart-home-dataset-with-weather-information
